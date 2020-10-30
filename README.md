@@ -5,7 +5,6 @@ This Github repository provides the list of HTML5 Game platforms.
 | ------------- | ------------- |
 | http://vseigru.net  | 690  |
 | http://crazygames.com  | 1,848  |
-| http://kongregate.com  | 1,943  |
 | https://www.miniclip.com  | 2,246  |
 | http://juegos.com  | 2,364  |
 | https://www.newgrounds.com  | 2,461  |
